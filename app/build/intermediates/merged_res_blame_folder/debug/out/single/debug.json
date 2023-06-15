@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel13.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel8.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel11.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel4.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel3.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\layout_fragment_novel.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\fragment_novel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel1.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel6.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel12.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel7.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel14.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel10.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel9.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\menu_button_nav_id.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\menu\\button_nav_id.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\layout_item_view.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_foto.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\foto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel2.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_novel5.jpg.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\novel5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\layout_fragment_profil.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\fragment_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-29:/layout_activity_detail.xml.flat",
+        "source": "com.example.uts.app-main-31:/layout/activity_detail.xml"
+    }
+]

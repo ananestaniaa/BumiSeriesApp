@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-mergeDebugResources-28:\\layout\\fragment_profil.xml",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\fragment_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-mergeDebugResources-28:\\layout\\item_view.xml",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-mergeDebugResources-28:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-28:/layout/activity_detail.xml",
+        "source": "com.example.uts.app-main-31:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-mergeDebugResources-28:\\layout\\fragment_novel.xml",
+        "source": "C:\\Users\\ANNA & EL\\.gradle\\daemon\\7.5\\com.example.uts.app-main-31:\\layout\\fragment_novel.xml"
+    }
+]
